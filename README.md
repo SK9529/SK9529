@@ -5,7 +5,8 @@
 - 🎓 BE Mechatronics Engineering '27 at MMIT, Pune
 - ⚙️ Interested in Embedded C/C++, Microcontrollers, PLC Programming, and Robotics
 - 💻 Working on embedded systems and industrial automation projects
-- 🔗 LinkedIn: [suraj-kedari]
+- 🔗 LinkedIn: [suraj-kedari](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
 - 📧 Email: kedarisuraj18@gmail.com
 
 <!--
