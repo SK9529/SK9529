@@ -6,7 +6,7 @@
 
 🔗 LinkedIn: [suraj-kedari](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
 
-📧 EMAIL : kedarisuraj18@gmail.com
+📧 Email : kedarisuraj18@gmail.com
 
 <!--
 **SK9529/SK9529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
