@@ -1,13 +1,12 @@
 # Hi, I'm Suraj Kedari 👋
 
-**Mechatronics Engineering Student | Embedded Systems | Robotics & Automation**
+🎓 BE Mechatronics Engineering '27 | MMIT, Pune
 
-- 🎓 BE Mechatronics Engineering '27 at MMIT, Pune
-- ⚙️ Interested in Embedded C/C++, Microcontrollers, PLC Programming, and Robotics
-- 💻 Working on embedded systems and industrial automation projects
-- 🔗 LinkedIn: [suraj-kedari](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+⚙️ Embedded Systems | Robotics | Industrial Automation
 
-- 📧 Email: kedarisuraj18@gmail.com
+🔗 LinkedIn: [suraj-kedari](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
+📧 EMAIL : kedarisuraj18@gmail.com
 
 <!--
 **SK9529/SK9529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
